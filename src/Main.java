@@ -9,6 +9,9 @@ public class Main {
      * dodawania, odejmowania, mnożenia, dzielenia.
      */
 
+
+    //Komentarz dodany przez uzytkownika github kamilsikorskialternativeuser
+
     public static void main(String[] args)
     {
         int liczbapierwsza;  // liczba, na której będziemy wykonywać operację
